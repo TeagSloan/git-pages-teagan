@@ -2,6 +2,7 @@
 ## Orange and Date Cake
 
 ![Date cake and Tea](/images/orange_date_cake.png)
+![Cookbook](/images/calendar_cookbook_cover.jpg)
 
 ### Ingredients
 - 1/2 cup butter
